@@ -1,0 +1,23 @@
+{
+  "name": "FixerTest",
+  "displayName": "FixerTest",
+	"fixerKey": "56510e393dd801d1bd4df925d093f7b5",
+	"countries": [
+		{
+			"name": "Danmark",
+			"currency": "DKK"
+		},
+		{
+			"name": "India",
+			"currency": "INR"
+		},
+		{
+			"name": "US",
+			"currency": "USD"
+		},
+		{
+			"name": "Thailand",
+			"currency": "THB"
+		}
+	]
+}
